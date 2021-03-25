@@ -12,3 +12,5 @@ where TEXT_TO_ENCODE should be replaced with text to encode
 
 To decode text use endpoint:
 localhost:8000/decode/TEXT_TO_DECODE
+
+### App to encode and decode using cesar cipher
