@@ -19,3 +19,7 @@ where TEXT_TO_ENCODE should be replaced with text to encode
 
 To decode text use endpoint:
 localhost:8000/decode/TEXT_TO_DECODE
+
+#### To access endpoints use predefined user and password:
+user: user
+password: secret123
